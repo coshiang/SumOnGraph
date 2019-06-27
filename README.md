@@ -1,5 +1,7 @@
 # SumOnGraph
 
+Start at : clsDemo
+
 Testing Data available : https://drive.google.com/open?id=1DPXGIkzOT8Jxr-BhF2SUEZSG_hgKVB08
 
 1) Cancer
